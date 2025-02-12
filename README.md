@@ -1,0 +1,2 @@
+# westem
+simple calculator program
