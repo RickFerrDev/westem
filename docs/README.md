@@ -1,7 +1,6 @@
 # Westem
 This is a simple calculator program written in Rust that performs basic arithmetic operations. It takes three command-line arguments: the left operand, the operator, and the right operand. The program then calculates the result of the operation and prints it to the console.
 
----
 ## Installation
 
 
@@ -15,7 +14,7 @@ git clone https://github.com/RickFerrDev/westem
 cd simple-calculator
 cargo build --release
 ```
----
+
 ## Usage
 To run the program, use the following command:
 ```bash
@@ -34,7 +33,6 @@ The program supports the following operators:
  / for division
  * for multiplication
 ```
----
 
 ## Documentation
 The code is documented using Rust's documentation syntax. You can generate the documentation using the following command:
@@ -44,11 +42,8 @@ cargo doc
 
 The documentation will be generated in the target/doc directory. You can open the index.html file in your browser to view the documentation.
 
----
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or bug fixes.
-
----
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
