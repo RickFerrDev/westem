@@ -1,4 +1,4 @@
-# 🧭 Westem
+# Westem
 This is a simple calculator program written in Rust that performs basic arithmetic operations. It takes three command-line arguments: the left operand, the operator, and the right operand. The program then calculates the result of the operation and prints it to the console.
 
 ---
