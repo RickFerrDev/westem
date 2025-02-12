@@ -9,8 +9,8 @@ readme = "docs/README.md"
 homepage = "https://github.com/RickFerrDev/westem"
 repository = "https://github.com/RickFerrDev/westem"
 license = "MIT"
-keywords = [""]
-categories = [""]
+keywords = ["cli", "command-line", "calculate", "utilities", "fast"]
+categories = ["command-line-utilities", "mathematics"]
 
 [[bin]]
 name = "westem"
