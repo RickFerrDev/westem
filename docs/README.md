@@ -11,7 +11,7 @@ Once you have Rust installed, you can clone the repository and build the program
 ```bash
 git clone https://github.com/RickFerrDev/westem
 
-cd simple-calculator
+cd westem
 cargo build --release
 ```
 
